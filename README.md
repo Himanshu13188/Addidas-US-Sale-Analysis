@@ -65,7 +65,7 @@ This dashboard empowers Adidas management to make better **strategic and operati
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/Himanshu13188/Addidas-US-Sale-Analysis/blob/main/Addidas%20Sales.png)
+![Dashboard Screenshot](https://github.com/Himanshu13188/Addidas-US-Sale-Analysis/blob/main/Adidas%20Sales.png)
 
 
 ---
